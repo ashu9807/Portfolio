@@ -19,11 +19,11 @@ const projects = [
       link: "https://gemini-omega-tawny.vercel.app/",
     },
     {
-      name: "Edusity",
-      year: "Mar2023",
+      name: "Sales Savy",
+      year: "Dec2025",
       align: "right",
       image: "../../images/website-img-1.jpg",
-      link: "https://edusity-xi.vercel.app/",
+      link: "https://github.com/ashu9807/sales_savvy",
     },
     
     // {

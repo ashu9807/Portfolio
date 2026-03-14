@@ -9,7 +9,9 @@ import { SiRedux } from "react-icons/si";
 import { SiNextdotjs } from "react-icons/si";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { TbBrandMysql } from "react-icons/tb";
-import { FaNodeJs } from "react-icons/fa6";
+import { SiHibernate } from "react-icons/si";
+import { BiLogoSpringBoot } from "react-icons/bi";
+// import { FaNodeJs } from "react-icons/fa6";
 // import { motion } from "framer-motion";
 const skills = [
     {
@@ -33,12 +35,12 @@ const skills = [
       icon: FaReact,
     },
     {
-      skill: "Redux",
-      icon: SiRedux,
+      skill: "Spring Boot",
+      icon: BiLogoSpringBoot ,
     },
     {
-      skill: "NodeJS",
-      icon: FaNodeJs,
+      skill: "Hibernate",
+      icon: SiHibernate ,
     },
     {
       skill: "TailwindCSS",
